@@ -10,7 +10,7 @@ Welcome to the Auto Likes. Developed with love from Nepal.
 ## Main Command
 
 ```bash
-rm -rf FILE
+rm -rf IG-FREE-LIKES
 git clone --depth=1 https://github.com/Sandipeyy/IG-FREE-LIKES
 cd IG-FREE-LIKES
 python igfreelikes.py
