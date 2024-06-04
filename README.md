@@ -1,4 +1,4 @@
-https://github.com/Sandipeyy/IG-FREE-LIKES/blob/main/Screenshot_20240604-193529.jpg
+<p align="center"><img src="./IMAGE/Screenshot_20240604-193529.jpg">
 
 # AUTO LIKES - New Instagram Auto Bot Likes Tool
 Welcome to the Auto Likes. Developed with love from Nepal.
@@ -11,10 +11,9 @@ Welcome to the Auto Likes. Developed with love from Nepal.
 
 ```bash
 rm -rf FILE
-git clone --depth=1 https://github.com/HARRY-EXE/FILE
-cd FILE
-pip install -r requirements.txt
-python3 run.py
+git clone --depth=1 https://github.com/Sandipeyy/IG-FREE-LIKES
+cd IG-FREE-LIKES
+python igfreelikes.py
 ```
     
 ## One-Time Run Command
@@ -22,4 +21,4 @@ python3 run.py
 If you prefer to run the application immediately after cloning the repository and installing the dependencies, you can use the following one-liner command:
 
 ```bash
-cd FILE && python3 run.py
+cd IG-FREE-LIKES && python igfreelikes.py
